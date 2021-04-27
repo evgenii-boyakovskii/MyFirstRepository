@@ -9,6 +9,7 @@ except ZeroDivisionError as e:
     print("На ноль делить нельзя")
 
 
+
 print('Type "Quit" for exit')
 while True:
     try:
