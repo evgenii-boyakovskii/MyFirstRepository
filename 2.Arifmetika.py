@@ -33,3 +33,4 @@ while True:
         print("На ноль делить нельзя")
     except ValueError as e:
         print("Введите целое число: ")
+
