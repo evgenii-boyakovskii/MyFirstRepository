@@ -9,6 +9,7 @@ except ZeroDivisionError as e:
     print("На ноль делить нельзя")
 
 
+
 print('Type "Quit" for exit')
 while True:
     try:
@@ -32,3 +33,4 @@ while True:
         print("На ноль делить нельзя")
     except ValueError as e:
         print("Введите целое число: ")
+

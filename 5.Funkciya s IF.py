@@ -1,4 +1,4 @@
-def myfanction(a, b):
+def myfunction(a, b):
     if a > b:
         print("Успешно")
     elif a == b:
@@ -7,4 +7,4 @@ def myfanction(a, b):
         print("Лузер")
 
 
-myfanction(int(input("Введите число: ")), int(input("Введите число: ")))
+myfunction(int(input("Введите число: ")), int(input("Введите число: ")))
